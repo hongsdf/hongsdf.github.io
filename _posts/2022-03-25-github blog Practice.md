@@ -10,10 +10,8 @@
  **1 마음에 드는 테마를 선택합니다.**
  
     [Theme Select Site] : https://github.com/topics/jekyll-theme
-    [googleLink]: https://www.google.com "Go google"
-    [Google 페이지 링크](https://google.com)
 
- **2 fork를 한다**
+ **2 fork를 한다 **
     fork를 하게되면 내 원격저장소에 소스코드가 복제된다
     rename [사용자명].github.io로 변경 (사이트 명)
 
@@ -29,7 +27,9 @@
     layout: single
     title: 을 적습니다.
 
-   **5 마크다운 에디터(이미지 파일을 업로드 할때 편리)**
+   **5 마크다운 에디터(이미지 파일을 업로드 할때 편리) **
+   
+   
     typora 에디터를 다운을 받고 다른 사람의 깃허브에 들어가 Download Zip를 하여 내 컴퓨터에 저장을 한다
     그리고 typora에서 [열기]를 하여 Download 파일을 연다
 
@@ -37,13 +37,6 @@
     
     
     
-    ```java
-    public class java{
-      public static void main(String[] args){
-      System.out.println("Hello Java World!");
-      }
-     
-    }
-   ```
+   
   
  
