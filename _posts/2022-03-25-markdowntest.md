@@ -1,6 +1,8 @@
-
-
-마크 다운 문법 정리
+---
+layout: post
+title:  "Markdown Grammer sort"
+---
+# 마크 다운 문법 정리
 
 // 링크정리 
 
