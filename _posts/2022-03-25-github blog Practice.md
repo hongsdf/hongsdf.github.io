@@ -4,7 +4,7 @@
 ---
 
   <center>오늘 한 일</center>
-  git hub블로그를 처음 만들었다
+  **double asterisks git hub블로그를 처음 만들었다**
   유투브 강의 : 테디노트 
 
   ## 1 마음에 드는 테마를 선택합니다.
@@ -43,6 +43,6 @@
       System.out.println("Hello Java World!");
       }
      }
-    ```
+   
   
  
