@@ -3,7 +3,7 @@
     title: "git blog 시작 "
 ---
 
-  <center>오늘 한 일
+  <center>오늘 한 일</center>
   git hub블로그를 처음 만들었다
   유투브 강의 : 테디노트 
 
@@ -45,4 +45,4 @@
      }
     ```
   
-  </center>
+ 
