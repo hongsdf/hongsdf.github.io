@@ -1,6 +1,6 @@
 ---
     layout: post
-    title: git blog 시작
+    title: "git blog 시작 "
 ---
 
   오늘 한 일
