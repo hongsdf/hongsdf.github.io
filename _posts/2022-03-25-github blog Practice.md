@@ -14,19 +14,19 @@ https://github.com/topics/jekyll-theme
 -- fork를 하게되면 내 원격저장소에 소스코드가 복제된다
 -- rename [사용자명].github.io로 변경 (사이트 명)
 
-3. config.yml : 여기서 블로그 테마와 관련된 것들을 수정할수 있다(나중에 실력이 늘면 살펴봐야겠다)
+3.config.yml : 여기서 블로그 테마와 관련된 것들을 수정할수 있다(나중에 실력이 늘면 살펴봐야겠다)
 
 
 
-4. https://jekyllrb.com/docs/posts/ : 마크다운 페이지에 들어가 문법을 확인
+4.https://jekyllrb.com/docs/posts/ : 마크다운 페이지에 들어가 문법을 확인
 
 일반적으로 
 
 layout: single
 title: 을 적습니다.
 
-5. 마크 다운 에디터(이미지 파일을 업로드 할때 편리) 
+5.마크 다운 에디터(이미지 파일을 업로드 할때 편리) 
 -- typora 에디터를 다운을 받고 다른 사람의 깃허브에 들어가 Download Zip를 하여 내 컴퓨터에 저장을 한다
 -- 그리고 typora에서 [열기]를 하여 Download 파일을 연다
 
-- typora 에디터: https://typora.io/
+-- typora 에디터: https://typora.io/
