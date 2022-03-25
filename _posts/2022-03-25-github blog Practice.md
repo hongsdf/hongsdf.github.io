@@ -10,6 +10,8 @@
  **1 마음에 드는 테마를 선택합니다.**
  
     [Theme Select Site] : https://github.com/topics/jekyll-theme
+    [google](http://google.com)
+
 
  **2 fork를 한다**
     fork를 하게되면 내 원격저장소에 소스코드가 복제된다
