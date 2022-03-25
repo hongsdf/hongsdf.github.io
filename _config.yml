@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Hong sung woo"
 description              : "An amazing website."
 url                      : "https://hongsdf.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,8 +105,8 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : " Seoul"
+  email            : "tyuz32450@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
