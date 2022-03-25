@@ -85,7 +85,7 @@ Link: [Google][googleLink]  [googleLink]: https://www.google.com "Go google"
 
 // 강조 - Emphasis
 
-// '**','_','~'기호를 이용하며, 서로 중첩해 사용할 수 있다.*
+ '**','_','~'기호를 이용하며, 서로 중첩해 사용할 수 있다.*
 
 본문에 특정 문자에 서식(볼드, 이텔릭, 밑줄, 취소선)을 적용해 강조할 수 있습니다.
 
@@ -126,3 +126,8 @@ public class Main{
 
 ```
 
+
+
+// 이미지 파일 넣기( typora 툴을 이용하자)
+
+![cat-6977096_1920](C:\Users\werz3\Downloads\cat-6977096_1920.jpg)
