@@ -11,6 +11,7 @@
  
     [Theme Select Site] : https://github.com/topics/jekyll-theme
     [googleLink]: https://www.google.com "Go google"
+    [Google 페이지 링크](https://google.com)
 
   ## 2 fork를 한다
     fork를 하게되면 내 원격저장소에 소스코드가 복제된다
@@ -42,3 +43,4 @@
       System.out.println("Hello Java World!");
       }
      }
+    ```
