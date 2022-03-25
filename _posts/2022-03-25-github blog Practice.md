@@ -8,7 +8,8 @@
   유투브 강의 : 테디노트 
 
   1. 마음에 드는 테마를 선택합니다.
-  https://github.com/topics/jekyll-theme
+ 
+    https://github.com/topics/jekyll-theme
 
   2. fork를 한다
     fork를 하게되면 내 원격저장소에 소스코드가 복제된다
