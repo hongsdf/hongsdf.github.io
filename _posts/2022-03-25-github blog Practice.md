@@ -3,13 +3,14 @@
     title: "git blog 시작 "
 ---
 
-  오늘 한 일
+  <center>오늘 한 일</center>
   git hub블로그를 처음 만들었다
   유투브 강의 : 테디노트 
 
   ## 1 마음에 드는 테마를 선택합니다.
  
-    [Theme Select Site](https://github.com/topics/jekyll-theme)
+    [Theme Select Site] : https://github.com/topics/jekyll-theme
+    [googleLink]: https://www.google.com "Go google"
 
   ## 2 fork를 한다
     fork를 하게되면 내 원격저장소에 소스코드가 복제된다
