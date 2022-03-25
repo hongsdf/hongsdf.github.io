@@ -11,7 +11,7 @@
  
     [Theme Select Site] : https://github.com/topics/jekyll-theme
 
- **2 fork를 한다 **
+ **2 fork를 한다**
     fork를 하게되면 내 원격저장소에 소스코드가 복제된다
     rename [사용자명].github.io로 변경 (사이트 명)
 
@@ -27,7 +27,7 @@
     layout: single
     title: 을 적습니다.
 
-   **5 마크다운 에디터(이미지 파일을 업로드 할때 편리) **
+   **5 마크다운 에디터(이미지 파일을 업로드 할때 편리)**
    
    
     typora 에디터를 다운을 받고 다른 사람의 깃허브에 들어가 Download Zip를 하여 내 컴퓨터에 저장을 한다
